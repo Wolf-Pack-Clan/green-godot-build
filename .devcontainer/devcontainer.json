@@ -1,0 +1,7 @@
+{
+  "name": "Debian Bookworm Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": ["ms-vscode.cpptools", "ms-python.python"]
+}
